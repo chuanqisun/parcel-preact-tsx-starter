@@ -1,0 +1,16 @@
+{
+  "name": "parcel-preact-tsx",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Minimal setup for prototyping in Preact",
+  "author": "Chuanqi Sun",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "devDependencies": {
+    "preact": "^10.4.4",
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.9.3"
+  }
+}
